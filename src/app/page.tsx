@@ -9,6 +9,7 @@ export default function Home() {
     <div>
       {data}
       ok
+      po
     </div>
     </>
 
