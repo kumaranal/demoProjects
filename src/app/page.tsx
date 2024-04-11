@@ -8,6 +8,7 @@ export default function Home() {
     <span>ok no issue</span>
     <div>
       {data}
+     jo
     </div>
     </>
 
